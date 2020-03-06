@@ -1,0 +1,18 @@
+integration_tests_dependencies:
+- ansible.windows
+- ansible.netcommon
+- ansible.posix
+- azure.azcollection
+- community.crypto
+- gavinfish.azuretest
+unit_tests_dependencies:
+- cisco.aci
+- f5networks.f5_modules
+- netbox.netbox
+- fortinet.fortios
+- junipernetworks.junos
+- netapp.ontap
+- community.kubernetes
+- ansible.netcommon
+- cisco.meraki
+- google.cloud
